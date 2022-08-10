@@ -7,8 +7,13 @@ function Home() {
   return (
     <div>
         <Hero />
+      <section className='section3'>
         <Info />
-        <Banner />
+      </section>
+      <section className='section2'>
+      <Banner />
+      </section>
+
     </div>
   )
 }
