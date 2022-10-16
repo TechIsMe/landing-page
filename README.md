@@ -6,10 +6,8 @@ Insuranc Landing Page.
 
 # Description
 
-## Available Scripts
-
-
-
-
+ I design a frontend mentor challenge  insurance company landing page using REACT and SCSS
+ 
 ## Tools
 
+HTML ,SCSS
